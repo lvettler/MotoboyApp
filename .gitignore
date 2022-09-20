@@ -1,0 +1,39 @@
+.idea
+# Arquivos Gradle
+.gradle/
+construir/
+
+# Arquivo de configuração local (caminho sdk, etc)
+local.propriedades
+
+# Arquivos log/OS
+*.log
+
+# Android Studio gerou arquivos e pastas
+Captura/
+.externalNativeBuild/
+.cxx/
+*.apk
+saída.json
+
+# IntelliJ
+*.iml
+.ideia/
+misc.xml
+implantaçãoTargetDropDown.xml
+render.experimental.xml
+
+# Arquivos do armazenamento de chaves
+*.jks
+*.keystore
+
+# Google Services (por exemplo, APIs ou Firebase)
+google-services.json
+
+# Perfil do Android
+*.hprof
+Rodapé
+© 2022 GitHub, Inc.
+Navegação de rodapé
+Termos
+Privacidade
